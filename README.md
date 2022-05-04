@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Computer Science student at Warsaw University of Technology.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konradwojda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects for studies
 
 - [CORDIC algorithm in MIPS assembly](https://github.com/konradwojda/arko-mips-cordic)
