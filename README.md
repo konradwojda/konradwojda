@@ -10,6 +10,7 @@ I am Computer Science student at Warsaw University of Technology.
 - [Introduction to Artificial Intelligence laboratories](https://github.com/konradwojda/WSI-STUD)
 - [Operating Systems laboratories](https://github.com/konradwojda/SOI-STUD)
 - [Connect 4 game in CLI](https://github.com/konradwojda/connect4)
+- [Chess game in CLI](https://github.com/konradwojda/PROI-CHESS)
 - [Object-Oriented Programming laboratories](https://github.com/konradwojda/PROI-STUD)
 - [Algorithms and Data Structures laboratories](https://github.com/konradwojda/AISDI-STUD)
 - [Application for organising public transportation](https://github.com/konradwojda/PAP-STUD)
