@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Computer Science student at Warsaw University of Technology.
+I am Computer Science student at Warsaw University of Technology. Currently exchange student at Kyungpook National University in Daegu.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konradwojda&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
