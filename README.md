@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Computer Science student at Warsaw University of Technology. Currently exchange student at Kyungpook National University in Daegu.
+Computer Science student at Warsaw University of Technology and Kyungpook National University in Daegu.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konradwojda&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,6 +15,7 @@ I am Computer Science student at Warsaw University of Technology. Currently exch
 - [Algorithms and Data Structures laboratories](https://github.com/konradwojda/AISDI-STUD)
 - [Application for organising public transportation](https://github.com/konradwojda/PAP-STUD)
 - [Data Bases 1 laboratories](https://github.com/konradwojda/BD1-STUD)
+- [Web application to organize public transportation](https://github.com/konradwojda/knu-cdp2-szallitas)
 
 ## Others
 - [Advent of Code 2021](https://github.com/konradwojda/AdventOfCode2021)
