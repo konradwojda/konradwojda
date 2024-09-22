@@ -17,6 +17,7 @@ Currently doing my Master's at WUT with an exchange at Hanyang University.
 - [Application for organising public transportation](https://github.com/konradwojda/PAP-STUD)
 - [Data Bases 1 laboratories](https://github.com/konradwojda/BD1-STUD)
 - [Web application to organize public transportation](https://github.com/konradwojda/knu-cdp2-szallitas)
+- [Web application which supports learning](https://github.com/konradwojda/learning-app)
 
 ## Others
 - [Advent of Code 2021](https://github.com/konradwojda/AdventOfCode2021)
